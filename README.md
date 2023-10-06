@@ -1,0 +1,2 @@
+# fingulfino
+Politica de privacidad
