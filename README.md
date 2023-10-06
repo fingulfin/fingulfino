@@ -1,8 +1,8 @@
-# Política de Privacidad, Fingulfin
+# Política de Privacidad, Idril
 Efectiva desde: 5 de Octubre de 2023
 Última revisión: 5 de Octubre de 2023.
 ## Introducción
-La aplicación Fingulfin se compromete a proteger la privacidad de los niños que la utilizan. La principal misión de esta aplicación es proporcionar a los niños de educación básica un ambiente divertido y seguro, para aprender conceptos de ciencias y matemáticas de acuerdo a su edad.
+La aplicación Idril se compromete a proteger la privacidad de los niños que la utilizan. La principal misión de esta aplicación es proporcionar a los niños de educación básica un ambiente divertido y seguro, para aprender conceptos de ciencias y matemáticas de acuerdo a su edad.
 Esta aplicación cumple y está sujeta a todas las leyes y normas aplicables relacionadas con los niños, en particular cumple con la Ley de Protección de la Privacidad de Menores en Internet (COPPA) y el Reglamento General de Protección de Datos (GDPR) de la UE.
 Si usted tiene algún comentrario o pregunta acerca de esta Política de Privacidad, por favor contáctenos al correo electrónico contenido en la ficha de ésta aplicación.
 Contenido de la aplicación
